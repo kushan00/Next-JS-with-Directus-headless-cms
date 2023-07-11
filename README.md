@@ -1,0 +1,1 @@
+# Next-JS-with-Directus-headless-cms
